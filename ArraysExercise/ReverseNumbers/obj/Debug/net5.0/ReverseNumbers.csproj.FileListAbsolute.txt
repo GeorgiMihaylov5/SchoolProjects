@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\bin\Debug\net5.0\ReverseNumbers.exe
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\bin\Debug\net5.0\ReverseNumbers.deps.json
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\bin\Debug\net5.0\ReverseNumbers.runtimeconfig.json
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\bin\Debug\net5.0\ReverseNumbers.runtimeconfig.dev.json
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\bin\Debug\net5.0\ReverseNumbers.dll
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\bin\Debug\net5.0\ref\ReverseNumbers.dll
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\bin\Debug\net5.0\ReverseNumbers.pdb
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\obj\Debug\net5.0\ReverseNumbers.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\obj\Debug\net5.0\ReverseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\obj\Debug\net5.0\ReverseNumbers.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\obj\Debug\net5.0\ReverseNumbers.AssemblyInfo.cs
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\obj\Debug\net5.0\ReverseNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\obj\Debug\net5.0\ReverseNumbers.dll
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\obj\Debug\net5.0\ref\ReverseNumbers.dll
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\obj\Debug\net5.0\ReverseNumbers.pdb
+C:\Users\Student\source\repos\ArraysExercise\ReverseNumbers\obj\Debug\net5.0\ReverseNumbers.genruntimeconfig.cache
