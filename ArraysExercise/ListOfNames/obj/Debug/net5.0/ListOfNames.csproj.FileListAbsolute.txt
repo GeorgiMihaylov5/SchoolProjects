@@ -1,0 +1,16 @@
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\bin\Debug\net5.0\ListOfNames.exe
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\bin\Debug\net5.0\ListOfNames.deps.json
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\bin\Debug\net5.0\ListOfNames.runtimeconfig.json
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\bin\Debug\net5.0\ListOfNames.runtimeconfig.dev.json
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\bin\Debug\net5.0\ListOfNames.dll
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\bin\Debug\net5.0\ref\ListOfNames.dll
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\bin\Debug\net5.0\ListOfNames.pdb
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\obj\Debug\net5.0\ListOfNames.csproj.AssemblyReference.cache
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\obj\Debug\net5.0\ListOfNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\obj\Debug\net5.0\ListOfNames.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\obj\Debug\net5.0\ListOfNames.AssemblyInfo.cs
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\obj\Debug\net5.0\ListOfNames.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\obj\Debug\net5.0\ListOfNames.dll
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\obj\Debug\net5.0\ref\ListOfNames.dll
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\obj\Debug\net5.0\ListOfNames.pdb
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\ListOfNames\obj\Debug\net5.0\ListOfNames.genruntimeconfig.cache

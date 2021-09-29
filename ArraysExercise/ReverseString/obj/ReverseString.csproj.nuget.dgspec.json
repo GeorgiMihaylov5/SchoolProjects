@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Student\\source\\repos\\ArraysExercise\\ReverseString\\ReverseString.csproj": {}
+    "C:\\Users\\Student\\Documents\\12b\\SchoolProjects\\ArraysExercise\\ReverseString\\ReverseString.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Student\\source\\repos\\ArraysExercise\\ReverseString\\ReverseString.csproj": {
+    "C:\\Users\\Student\\Documents\\12b\\SchoolProjects\\ArraysExercise\\ReverseString\\ReverseString.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Student\\source\\repos\\ArraysExercise\\ReverseString\\ReverseString.csproj",
+        "projectUniqueName": "C:\\Users\\Student\\Documents\\12b\\SchoolProjects\\ArraysExercise\\ReverseString\\ReverseString.csproj",
         "projectName": "ReverseString",
-        "projectPath": "C:\\Users\\Student\\source\\repos\\ArraysExercise\\ReverseString\\ReverseString.csproj",
+        "projectPath": "C:\\Users\\Student\\Documents\\12b\\SchoolProjects\\ArraysExercise\\ReverseString\\ReverseString.csproj",
         "packagesPath": "C:\\Users\\Student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Student\\source\\repos\\ArraysExercise\\ReverseString\\obj\\",
+        "outputPath": "C:\\Users\\Student\\Documents\\12b\\SchoolProjects\\ArraysExercise\\ReverseString\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
