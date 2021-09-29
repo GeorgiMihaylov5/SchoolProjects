@@ -1,0 +1,15 @@
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.exe
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.deps.json
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.runtimeconfig.json
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.runtimeconfig.dev.json
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.dll
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\bin\Debug\net5.0\ref\EvenAndOddSubtraction.dll
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\bin\Debug\net5.0\EvenAndOddSubtraction.pdb
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.AssemblyInfoInputs.cache
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.AssemblyInfo.cs
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.csproj.CoreCompileInputs.cache
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.dll
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\obj\Debug\net5.0\ref\EvenAndOddSubtraction.dll
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.pdb
+C:\Users\Student\Documents\12b\SchoolProjects\ArraysExercise\EvenAndOddSubtraction\obj\Debug\net5.0\EvenAndOddSubtraction.genruntimeconfig.cache
