@@ -11,7 +11,7 @@ namespace CompanyDB.Presentation
 {
     public class Display
     {
-        private int closeOperationId = 7;
+        private int closeOperationId = 6;
         private EmployeeServices employeeServices = new EmployeeServices();
 
         private void ShowMenu()
@@ -24,8 +24,7 @@ namespace CompanyDB.Presentation
             Console.WriteLine("3. Update entry");
             Console.WriteLine("4. Fetch entry by ID");
             Console.WriteLine("5. Delete entry by ID");
-            Console.WriteLine("6. UpdateStock by ID");
-            Console.WriteLine("7. Exit");
+            Console.WriteLine("6. Exit");
         }
         private void Input()
         {
