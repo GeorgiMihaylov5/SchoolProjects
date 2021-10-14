@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.exe
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.deps.json
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.runtimeconfig.json
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.runtimeconfig.dev.json
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.dll
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\bin\Debug\net5.0\ref\ListManipulationBasics.dll
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\bin\Debug\net5.0\ListManipulationBasics.pdb
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.AssemblyInfo.cs
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.dll
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\obj\Debug\net5.0\ref\ListManipulationBasics.dll
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.pdb
+C:\Users\Student\source\repos\ListExercise\ListManipulationBasics\obj\Debug\net5.0\ListManipulationBasics.genruntimeconfig.cache

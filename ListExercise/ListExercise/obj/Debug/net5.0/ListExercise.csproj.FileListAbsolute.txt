@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\ListExercise\ListExercise\bin\Debug\net5.0\ListExercise.exe
+C:\Users\Student\source\repos\ListExercise\ListExercise\bin\Debug\net5.0\ListExercise.deps.json
+C:\Users\Student\source\repos\ListExercise\ListExercise\bin\Debug\net5.0\ListExercise.runtimeconfig.json
+C:\Users\Student\source\repos\ListExercise\ListExercise\bin\Debug\net5.0\ListExercise.runtimeconfig.dev.json
+C:\Users\Student\source\repos\ListExercise\ListExercise\bin\Debug\net5.0\ListExercise.dll
+C:\Users\Student\source\repos\ListExercise\ListExercise\bin\Debug\net5.0\ref\ListExercise.dll
+C:\Users\Student\source\repos\ListExercise\ListExercise\bin\Debug\net5.0\ListExercise.pdb
+C:\Users\Student\source\repos\ListExercise\ListExercise\obj\Debug\net5.0\ListExercise.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\ListExercise\ListExercise\obj\Debug\net5.0\ListExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\ListExercise\ListExercise\obj\Debug\net5.0\ListExercise.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\ListExercise\ListExercise\obj\Debug\net5.0\ListExercise.AssemblyInfo.cs
+C:\Users\Student\source\repos\ListExercise\ListExercise\obj\Debug\net5.0\ListExercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\ListExercise\ListExercise\obj\Debug\net5.0\ListExercise.dll
+C:\Users\Student\source\repos\ListExercise\ListExercise\obj\Debug\net5.0\ref\ListExercise.dll
+C:\Users\Student\source\repos\ListExercise\ListExercise\obj\Debug\net5.0\ListExercise.pdb
+C:\Users\Student\source\repos\ListExercise\ListExercise\obj\Debug\net5.0\ListExercise.genruntimeconfig.cache
