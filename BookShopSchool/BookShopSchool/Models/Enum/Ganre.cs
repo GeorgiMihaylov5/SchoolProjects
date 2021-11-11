@@ -8,6 +8,8 @@ namespace BookShopSchool.Models.Enum
 {
     public enum Ganre
     {
-        
+        Biography = 1,
+        Business = 2,
+        Science =3
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CtmKGYP33mA6+XuPtBevpxV6Ahe3qovOLPEwPhzMfDqw3/riuwzIcuONjSg454ii75DINwTJfwROopsqw6pHYQ==",
+  "dgSpecHash": "vBB2k8/xBSB2d0iwGAkQX7maLumyKBx1MGwJMP+AiqMyapIdD9PTwTePhXaw2FCDzm8+IaX7k40oiiLhEYXprg==",
   "success": true,
-  "projectFilePath": "D:\\Programing\\BookShopSchool\\BookShopSchool\\BookShopSchool.csproj",
+  "projectFilePath": "D:\\School Georgi\\SchoolProjects\\BookShopSchool\\BookShopSchool\\BookShopSchool.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gogog\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gogog\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -5767,11 +5767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Programing\\BookShopSchool\\BookShopSchool\\BookShopSchool.csproj",
+      "projectUniqueName": "D:\\School Georgi\\SchoolProjects\\BookShopSchool\\BookShopSchool\\BookShopSchool.csproj",
       "projectName": "BookShopSchool",
-      "projectPath": "D:\\Programing\\BookShopSchool\\BookShopSchool\\BookShopSchool.csproj",
+      "projectPath": "D:\\School Georgi\\SchoolProjects\\BookShopSchool\\BookShopSchool\\BookShopSchool.csproj",
       "packagesPath": "C:\\Users\\gogog\\.nuget\\packages\\",
-      "outputPath": "D:\\Programing\\BookShopSchool\\BookShopSchool\\obj\\",
+      "outputPath": "D:\\School Georgi\\SchoolProjects\\BookShopSchool\\BookShopSchool\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
