@@ -1,0 +1,32 @@
+D:\Programing\Store2\Store2\bin\Debug\net5.0\Store2.exe
+D:\Programing\Store2\Store2\bin\Debug\net5.0\Store2.deps.json
+D:\Programing\Store2\Store2\bin\Debug\net5.0\Store2.runtimeconfig.json
+D:\Programing\Store2\Store2\bin\Debug\net5.0\Store2.runtimeconfig.dev.json
+D:\Programing\Store2\Store2\bin\Debug\net5.0\Store2.dll
+D:\Programing\Store2\Store2\bin\Debug\net5.0\ref\Store2.dll
+D:\Programing\Store2\Store2\bin\Debug\net5.0\Store2.pdb
+D:\Programing\Store2\Store2\obj\Debug\net5.0\Store2.csproj.AssemblyReference.cache
+D:\Programing\Store2\Store2\obj\Debug\net5.0\Store2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\Store2\Store2\obj\Debug\net5.0\Store2.AssemblyInfoInputs.cache
+D:\Programing\Store2\Store2\obj\Debug\net5.0\Store2.AssemblyInfo.cs
+D:\Programing\Store2\Store2\obj\Debug\net5.0\Store2.csproj.CoreCompileInputs.cache
+D:\Programing\Store2\Store2\obj\Debug\net5.0\Store2.dll
+D:\Programing\Store2\Store2\obj\Debug\net5.0\ref\Store2.dll
+D:\Programing\Store2\Store2\obj\Debug\net5.0\Store2.pdb
+D:\Programing\Store2\Store2\obj\Debug\net5.0\Store2.genruntimeconfig.cache
+D:\School Georgi\SchoolProjects\Store2\Store2\bin\Debug\net5.0\Store2.exe
+D:\School Georgi\SchoolProjects\Store2\Store2\bin\Debug\net5.0\Store2.deps.json
+D:\School Georgi\SchoolProjects\Store2\Store2\bin\Debug\net5.0\Store2.runtimeconfig.json
+D:\School Georgi\SchoolProjects\Store2\Store2\bin\Debug\net5.0\Store2.runtimeconfig.dev.json
+D:\School Georgi\SchoolProjects\Store2\Store2\bin\Debug\net5.0\Store2.dll
+D:\School Georgi\SchoolProjects\Store2\Store2\bin\Debug\net5.0\ref\Store2.dll
+D:\School Georgi\SchoolProjects\Store2\Store2\bin\Debug\net5.0\Store2.pdb
+D:\School Georgi\SchoolProjects\Store2\Store2\obj\Debug\net5.0\Store2.csproj.AssemblyReference.cache
+D:\School Georgi\SchoolProjects\Store2\Store2\obj\Debug\net5.0\Store2.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\SchoolProjects\Store2\Store2\obj\Debug\net5.0\Store2.AssemblyInfoInputs.cache
+D:\School Georgi\SchoolProjects\Store2\Store2\obj\Debug\net5.0\Store2.AssemblyInfo.cs
+D:\School Georgi\SchoolProjects\Store2\Store2\obj\Debug\net5.0\Store2.csproj.CoreCompileInputs.cache
+D:\School Georgi\SchoolProjects\Store2\Store2\obj\Debug\net5.0\Store2.dll
+D:\School Georgi\SchoolProjects\Store2\Store2\obj\Debug\net5.0\ref\Store2.dll
+D:\School Georgi\SchoolProjects\Store2\Store2\obj\Debug\net5.0\Store2.pdb
+D:\School Georgi\SchoolProjects\Store2\Store2\obj\Debug\net5.0\Store2.genruntimeconfig.cache
