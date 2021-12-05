@@ -1,0 +1,16 @@
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\bin\Debug\net5.0\ExTema2.exe
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\bin\Debug\net5.0\ExTema2.deps.json
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\bin\Debug\net5.0\ExTema2.runtimeconfig.json
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\bin\Debug\net5.0\ExTema2.runtimeconfig.dev.json
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\bin\Debug\net5.0\ExTema2.dll
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\bin\Debug\net5.0\ref\ExTema2.dll
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\bin\Debug\net5.0\ExTema2.pdb
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\obj\Debug\net5.0\ExTema2.csproj.AssemblyReference.cache
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\obj\Debug\net5.0\ExTema2.GeneratedMSBuildEditorConfig.editorconfig
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\obj\Debug\net5.0\ExTema2.AssemblyInfoInputs.cache
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\obj\Debug\net5.0\ExTema2.AssemblyInfo.cs
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\obj\Debug\net5.0\ExTema2.csproj.CoreCompileInputs.cache
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\obj\Debug\net5.0\ExTema2.dll
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\obj\Debug\net5.0\ref\ExTema2.dll
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\obj\Debug\net5.0\ExTema2.pdb
+D:\School Georgi\SchoolProjects\ExTema2\ExTema2\obj\Debug\net5.0\ExTema2.genruntimeconfig.cache
