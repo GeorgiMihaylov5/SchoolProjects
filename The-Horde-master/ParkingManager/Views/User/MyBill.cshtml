@@ -1,0 +1,17 @@
+﻿@model ParkingManager.Models.viewModels.MyBillViewModel
+@{
+    ViewData["Title"] = "MyBill";
+}
+<b>Time spent:</b><br />
+<div class="transbox">
+@Model.totalDaysInPark days
+</div>
+
+<br />
+<br />
+<br />
+
+<b>Bill:</b><br />
+<div class="transbox">
+@(Math.Round(@Model.Price)) лв.
+</div>

@@ -1,0 +1,54 @@
+﻿@model ParkingManager.Models.viewModels.LeaveSpotViewModel
+
+@{
+    ViewData["Title"] = "LeaveSpot";
+}
+
+<div class="transbox-red-leavespot">
+    <b>Rent my spot</b>
+</div>
+
+<br />
+<br />
+<br />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="LeaveSpot">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="leaveSpotStartDate" class="control-label"></label>
+                <input asp-for="leaveSpotStartDate" id="startDate"class="form-control" />
+                <span asp-validation-for="leaveSpotStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="leaveSpotEndDate" class="control-label"></label>
+                <input asp-for="leaveSpotEndDate" id="endDate"class="form-control" />
+                <span asp-validation-for="leaveSpotEndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="hidden" asp-for="leaveSpotStartDate" />
+                <input type="hidden" asp-for="leaveSpotEndDate" />
+                <input type="submit" value="Rent my Spot" class="leavespotbutton" />
+            </div>
+        </form>
+    </div>
+</div>
+
+@*Sets the calendars' min selection dates to today*@
+<script>
+    var today = new Date();
+    var dd = today.getDate();
+    var mm = today.getMonth() + 1; //January is 0!
+    var yyyy = today.getFullYear();
+    if (dd < 10) {
+        dd = '0' + dd
+    }
+    if (mm < 10) {
+        mm = '0' + mm
+    }
+
+    today = yyyy + '-' + mm + '-' + dd;
+    document.getElementById("startDate").setAttribute("min", today);
+    document.getElementById("endDate").setAttribute("min", today);
+</script>

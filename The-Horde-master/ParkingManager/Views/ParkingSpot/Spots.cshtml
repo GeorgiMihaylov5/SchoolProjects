@@ -1,0 +1,63 @@
+﻿@model IEnumerable<ParkingSpot>
+
+@foreach (var item in Model)
+{
+    if (item.OwnerId == null && item.RenterId == null)
+    {
+        <input type="hidden" asp-for="@item.Id" />
+        <a asp-action="Rent" asp-route-id="@item.Id">
+            <div class="transbox-green">
+                Spot №@Html.DisplayFor(modelItem => item.ParkingSpotNumber) is free.
+
+            </div>
+        </a>
+    }
+
+    else if (item.OwnerId != null && item.IsFree == 1)
+    {
+        <input type="hidden" asp-for="@item.Id" />
+        <a asp-action="Rent" asp-route-id="@item.Id">
+            <div class="transbox-yellow">
+                Spot №@Html.DisplayFor(modelItem => item.ParkingSpotNumber) <br />
+                <p style="color:lawngreen">
+                    Free from: @Html.DisplayFor(modelItem => item.UsersToParkingSpot.FirstOrDefault(x => x.ParkingSpotId == item.Id).StartingRentDate)
+                    To: @Html.DisplayFor(modelItem => item.UsersToParkingSpot.FirstOrDefault(x => x.ParkingSpotId == item.Id).EndingRentDate)
+                </p>
+            </div>
+        </a>
+    }
+    else if (item.OwnerId != null || item.RenterId != null)
+    {
+        <div class="transbox-red">
+            Spot №@Html.DisplayFor(modelItem => item.ParkingSpotNumber) <br />
+        </div>
+    }
+}
+
+
+
+
+
+@*============================================== Back to top button code ==============================================*@
+<button onclick="topFunction()" id="myBtn" title="Go to top">Back to Top</button>
+<script>
+    //Get the button
+    var mybutton = document.getElementById("myBtn");
+
+    // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function () { scrollFunction() };
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            mybutton.style.display = "block";
+        } else {
+            mybutton.style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function topFunction() {
+        document.body.scrollTop = 0;
+        document.documentElement.scrollTop = 0;
+    }
+</script>

@@ -1,0 +1,7 @@
+D:\Programing\Point3DFramework\Point3DFramework\bin\Debug\Point3DFramework.exe.config
+D:\Programing\Point3DFramework\Point3DFramework\bin\Debug\Point3DFramework.exe
+D:\Programing\Point3DFramework\Point3DFramework\bin\Debug\Point3DFramework.pdb
+D:\Programing\Point3DFramework\Point3DFramework\obj\Debug\Point3DFramework.csprojAssemblyReference.cache
+D:\Programing\Point3DFramework\Point3DFramework\obj\Debug\Point3DFramework.csproj.CoreCompileInputs.cache
+D:\Programing\Point3DFramework\Point3DFramework\obj\Debug\Point3DFramework.exe
+D:\Programing\Point3DFramework\Point3DFramework\obj\Debug\Point3DFramework.pdb

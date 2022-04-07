@@ -1,0 +1,10 @@
+D:\Programing\JSON-RS\JSON-RS\bin\Debug\JSON-RS.exe.config
+D:\Programing\JSON-RS\JSON-RS\bin\Debug\JSON-RS.exe
+D:\Programing\JSON-RS\JSON-RS\bin\Debug\JSON-RS.pdb
+D:\Programing\JSON-RS\JSON-RS\bin\Debug\Newtonsoft.Json.dll
+D:\Programing\JSON-RS\JSON-RS\bin\Debug\Newtonsoft.Json.xml
+D:\Programing\JSON-RS\JSON-RS\obj\Debug\JSON-RS.csprojAssemblyReference.cache
+D:\Programing\JSON-RS\JSON-RS\obj\Debug\JSON-RS.csproj.CoreCompileInputs.cache
+D:\Programing\JSON-RS\JSON-RS\obj\Debug\JSON-RS.csproj.CopyComplete
+D:\Programing\JSON-RS\JSON-RS\obj\Debug\JSON-RS.exe
+D:\Programing\JSON-RS\JSON-RS\obj\Debug\JSON-RS.pdb

@@ -1,0 +1,9 @@
+D:\Programing\ThreadingCounter-KP\Counter1\bin\Debug\netcoreapp3.1\Counter1.deps.json
+D:\Programing\ThreadingCounter-KP\Counter1\bin\Debug\netcoreapp3.1\Counter1.dll
+D:\Programing\ThreadingCounter-KP\Counter1\bin\Debug\netcoreapp3.1\Counter1.pdb
+D:\Programing\ThreadingCounter-KP\Counter1\obj\Debug\netcoreapp3.1\Counter1.csprojAssemblyReference.cache
+D:\Programing\ThreadingCounter-KP\Counter1\obj\Debug\netcoreapp3.1\Counter1.AssemblyInfoInputs.cache
+D:\Programing\ThreadingCounter-KP\Counter1\obj\Debug\netcoreapp3.1\Counter1.AssemblyInfo.cs
+D:\Programing\ThreadingCounter-KP\Counter1\obj\Debug\netcoreapp3.1\Counter1.csproj.CoreCompileInputs.cache
+D:\Programing\ThreadingCounter-KP\Counter1\obj\Debug\netcoreapp3.1\Counter1.dll
+D:\Programing\ThreadingCounter-KP\Counter1\obj\Debug\netcoreapp3.1\Counter1.pdb

@@ -1,0 +1,7 @@
+D:\Programing\Move3DPoint-KP\Move3DPoint\bin\Debug\Move3DPoint.exe.config
+D:\Programing\Move3DPoint-KP\Move3DPoint\bin\Debug\Move3DPoint.exe
+D:\Programing\Move3DPoint-KP\Move3DPoint\bin\Debug\Move3DPoint.pdb
+D:\Programing\Move3DPoint-KP\Move3DPoint\obj\Debug\Move3DPoint.csprojAssemblyReference.cache
+D:\Programing\Move3DPoint-KP\Move3DPoint\obj\Debug\Move3DPoint.csproj.CoreCompileInputs.cache
+D:\Programing\Move3DPoint-KP\Move3DPoint\obj\Debug\Move3DPoint.exe
+D:\Programing\Move3DPoint-KP\Move3DPoint\obj\Debug\Move3DPoint.pdb

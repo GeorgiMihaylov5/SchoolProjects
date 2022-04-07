@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Polimorfizum_OOP/1.0.0": {
+        "runtime": {
+          "Polimorfizum_OOP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Polimorfizum_OOP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

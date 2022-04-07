@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polimorfizum_OOP", "Polimorfizum_OOP\Polimorfizum_OOP.csproj", "{4F002FB5-BAC2-41D0-99BC-F60CE9B10FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F002FB5-BAC2-41D0-99BC-F60CE9B10FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F002FB5-BAC2-41D0-99BC-F60CE9B10FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F002FB5-BAC2-41D0-99BC-F60CE9B10FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F002FB5-BAC2-41D0-99BC-F60CE9B10FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC235BE9-D198-48BB-9B96-4F57DA1DF2EE}
+	EndGlobalSection
+EndGlobal

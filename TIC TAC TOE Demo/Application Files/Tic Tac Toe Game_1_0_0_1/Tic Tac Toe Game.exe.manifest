@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Tic Tac Toe Game.exe" version="1.0.0.1" publicKeyToken="abd52429c1adca4a" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="icon_KnX_icon.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Tic Tac Toe Game" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Tic Tac Toe Game.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Tic Tac Toe Game.exe" size="333792">
+      <assemblyIdentity name="Tic Tac Toe Game" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Az0EC3a7vPTl4gi/u4kj4cb92xmNIoxXXy9Rn43hH1Y=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="de472bdc811b6941c6825de74aa5b520_tCY_icon.ico" size="86182">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xntjBS/7SH9pTIsI+JPkwSP+67aZxKj8vLMOTXrEWBM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="icon_KnX_icon.ico" size="112570">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>BNc7vt15m0a3ixUXv/tjmyEmvvPIB1fvIg7J2g6loMo=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Tic Tac Toe Game.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-IKFRKF5\gogog" issuerKeyHash="1c6785bc3534c6baee198441b1c47ccb55477f71" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>KeFpfYJxl5KsrJeR8i4WVPZVzQClQRlglRP5ON5gyg8=</DigestValue></Reference></SignedInfo><SignatureValue>Yqsor5nRkwSZBs/2aAQyAqzMmrUhs+Mb+AsOl9Lv5b7dTe4autU36QUVArsqO2JYNd6hUEPQ2Gor/KYMVhPDJCmqtbp+Aap1ypGTr6fiZBmO0sXAQtywo4oS/D545iXvVYGJQRFR61HFFdFtxCL0DgSd+XU6utUcWPhD+axpmvY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uot1hQR7f02f9Jvz95PL8VXMiOQakxKPtTRgJ5CCDP6KWqKsL8ZYzF0IDSAq9ROUhXiKgnq4aOuLKs83f0xih/tWKe1hmbi9Pc6woxEi7nqxtZNYNTU4K+YWR1MfkOfuovSA7u/msr2sT5OBXnPD89XwdOlttFqAeoto/dlfvl0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="0fca60de38f91395601941a500cd55f654162ef29197acac929771827d69e129" Description="" Url=""><as:assemblyIdentity name="Tic Tac Toe Game.exe" version="1.0.0.1" publicKeyToken="abd52429c1adca4a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-IKFRKF5\gogog</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>2B48bASaSUeKBVXB8DiRIOfrJ8YHAfQKAyKQDjzQF1A=</DigestValue></Reference></SignedInfo><SignatureValue>oWZUc16CX4WPlmTK0wldfDvZ5makl9y7lXWkLqtrQuFazCKSHZTG/BjAXyptaUpLDFpd6plYaxFWieGjnXbpzFgbhHFUPuc2/KHkJNEwLYTr0VTHYrjTDwRl57BagdxyJG5bX+MeGAkSg/p0i0+8t3BDjQOlq9d2QWiIuyk0ZPA=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uot1hQR7f02f9Jvz95PL8VXMiOQakxKPtTRgJ5CCDP6KWqKsL8ZYzF0IDSAq9ROUhXiKgnq4aOuLKs83f0xih/tWKe1hmbi9Pc6woxEi7nqxtZNYNTU4K+YWR1MfkOfuovSA7u/msr2sT5OBXnPD89XwdOlttFqAeoto/dlfvl0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQZwEihiwsArlKqJy2VCc5tjANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEkASwBGAFIASwBGADUAXABnAG8AZwBvAGcwHhcNMjAwNDEyMTczMzUwWhcNMjEwNDEyMjMzMzUwWjA1MTMwMQYDVQQDHioARABFAFMASwBUAE8AUAAtAEkASwBGAFIASwBGADUAXABnAG8AZwBvAGcwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALqLdYUEe39Nn/Sb8/eTy/FVzIjkGpMSj7U0YCeQggz+ilqirC/GWMxdCA0gKvUTlIV4ioJ6uGjriyrPN39MYof7VintYZm4vT3OsKMRIu56sbWTWDU1OCvmFkdTH5Dn7qL0gO7v5rK9rE+TgV5zw/PV8HTpbbRagHqLaP3ZX75dAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAhYz2VAcR5Eow9bjLlKd41hfupYASJ4spsUP81YW5MrUB9AUGNUjpDvupezpvl6xIlr5AGtqS1JfP7s9ZwoGERovkDSa4AKbt1KqdPa/ZEjlz+xlNquSjHtTlOcDlVHxVYPPKS2shJ/LiB8kGw8Qz+POXT5/tmjbqdZIxLSsVUTY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

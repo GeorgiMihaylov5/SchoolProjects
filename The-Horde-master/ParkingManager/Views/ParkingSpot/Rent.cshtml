@@ -1,0 +1,54 @@
+﻿@model ParkingManager.Models.viewModels.RentViewModel
+
+@{
+    ViewData["Title"] = "Rent";
+}
+
+<div class="transbox-yellow-rentspot">
+    <b>Rent spot</b>
+</div>
+
+<br />
+<br />
+<br />
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Rent">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="rentStartDate" class="control-label"></label>
+                <input asp-for="rentStartDate" id="startDate" class="form-control" />
+                <span asp-validation-for="rentStartDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="rentEndDate" class="control-label"></label>
+                <input asp-for="rentEndDate" id="endDate"class="form-control" />
+                <span asp-validation-for="rentEndDate" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="hidden" asp-for="rentStartDate" />
+                <input type="hidden" asp-for="rentEndDate" />
+                <input type="submit" value="Rent" class="rentbutton" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<script>
+    var today = new Date();
+    var dd = today.getDate();
+    var mm = today.getMonth() + 1; //January is 0!
+    var yyyy = today.getFullYear();
+ 
+    if (dd < 10) {
+        dd = '0' + dd
+    }
+    if (mm < 10) {
+        mm = '0' + mm
+    }
+
+    today = yyyy + '-' + mm + '-' + dd;
+    document.getElementById("startDate").setAttribute("min", today);
+    document.getElementById("endDate").setAttribute("min", today);
+</script>

@@ -1,0 +1,58 @@
+﻿@model IEnumerable<ParkingSpot>
+
+@{
+    ViewData["Title"] = "AdminPanelSpots";
+}
+
+<h1><center><b>AdminPanel - Spots</b></center></h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(spot => spot.Id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(spot => spot.OwnerId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(spot => spot.RenterId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(spot => spot.ParkingSpotNumber)
+            </th>
+            <th>
+                @Html.DisplayNameFor(spot => spot.IsFree)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.OwnerId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RenterId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ParkingSpotNumber)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsFree)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>
+<button type="button" onclick="window.location.href = 'CreateSpot';" class="createspotbutton">Create Parking Spot</button>
+

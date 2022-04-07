@@ -1,0 +1,13 @@
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\bin\Debug\netcoreapp3.1\Polimorfizum_OOP.exe
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\bin\Debug\netcoreapp3.1\Polimorfizum_OOP.deps.json
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\bin\Debug\netcoreapp3.1\Polimorfizum_OOP.runtimeconfig.json
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\bin\Debug\netcoreapp3.1\Polimorfizum_OOP.runtimeconfig.dev.json
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\bin\Debug\netcoreapp3.1\Polimorfizum_OOP.dll
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\bin\Debug\netcoreapp3.1\Polimorfizum_OOP.pdb
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\obj\Debug\netcoreapp3.1\Polimorfizum_OOP.csprojAssemblyReference.cache
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\obj\Debug\netcoreapp3.1\Polimorfizum_OOP.AssemblyInfoInputs.cache
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\obj\Debug\netcoreapp3.1\Polimorfizum_OOP.AssemblyInfo.cs
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\obj\Debug\netcoreapp3.1\Polimorfizum_OOP.csproj.CoreCompileInputs.cache
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\obj\Debug\netcoreapp3.1\Polimorfizum_OOP.dll
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\obj\Debug\netcoreapp3.1\Polimorfizum_OOP.pdb
+D:\Programing\Polimorfizum_OOP\Polimorfizum_OOP\obj\Debug\netcoreapp3.1\Polimorfizum_OOP.genruntimeconfig.cache

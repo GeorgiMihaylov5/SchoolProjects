@@ -1,0 +1,13 @@
+D:\Programing\Phone_OOP\Phone_OOP\bin\Debug\netcoreapp3.1\Phone_OOP.exe
+D:\Programing\Phone_OOP\Phone_OOP\bin\Debug\netcoreapp3.1\Phone_OOP.deps.json
+D:\Programing\Phone_OOP\Phone_OOP\bin\Debug\netcoreapp3.1\Phone_OOP.runtimeconfig.json
+D:\Programing\Phone_OOP\Phone_OOP\bin\Debug\netcoreapp3.1\Phone_OOP.runtimeconfig.dev.json
+D:\Programing\Phone_OOP\Phone_OOP\bin\Debug\netcoreapp3.1\Phone_OOP.dll
+D:\Programing\Phone_OOP\Phone_OOP\bin\Debug\netcoreapp3.1\Phone_OOP.pdb
+D:\Programing\Phone_OOP\Phone_OOP\obj\Debug\netcoreapp3.1\Phone_OOP.csprojAssemblyReference.cache
+D:\Programing\Phone_OOP\Phone_OOP\obj\Debug\netcoreapp3.1\Phone_OOP.AssemblyInfoInputs.cache
+D:\Programing\Phone_OOP\Phone_OOP\obj\Debug\netcoreapp3.1\Phone_OOP.AssemblyInfo.cs
+D:\Programing\Phone_OOP\Phone_OOP\obj\Debug\netcoreapp3.1\Phone_OOP.csproj.CoreCompileInputs.cache
+D:\Programing\Phone_OOP\Phone_OOP\obj\Debug\netcoreapp3.1\Phone_OOP.dll
+D:\Programing\Phone_OOP\Phone_OOP\obj\Debug\netcoreapp3.1\Phone_OOP.pdb
+D:\Programing\Phone_OOP\Phone_OOP\obj\Debug\netcoreapp3.1\Phone_OOP.genruntimeconfig.cache

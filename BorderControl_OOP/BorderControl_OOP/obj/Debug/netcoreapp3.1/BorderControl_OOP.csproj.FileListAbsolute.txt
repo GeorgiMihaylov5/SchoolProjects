@@ -1,0 +1,13 @@
+D:\Programing\BorderControl_OOP\BorderControl_OOP\bin\Debug\netcoreapp3.1\BorderControl_OOP.exe
+D:\Programing\BorderControl_OOP\BorderControl_OOP\bin\Debug\netcoreapp3.1\BorderControl_OOP.deps.json
+D:\Programing\BorderControl_OOP\BorderControl_OOP\bin\Debug\netcoreapp3.1\BorderControl_OOP.runtimeconfig.json
+D:\Programing\BorderControl_OOP\BorderControl_OOP\bin\Debug\netcoreapp3.1\BorderControl_OOP.runtimeconfig.dev.json
+D:\Programing\BorderControl_OOP\BorderControl_OOP\bin\Debug\netcoreapp3.1\BorderControl_OOP.dll
+D:\Programing\BorderControl_OOP\BorderControl_OOP\bin\Debug\netcoreapp3.1\BorderControl_OOP.pdb
+D:\Programing\BorderControl_OOP\BorderControl_OOP\obj\Debug\netcoreapp3.1\BorderControl_OOP.csprojAssemblyReference.cache
+D:\Programing\BorderControl_OOP\BorderControl_OOP\obj\Debug\netcoreapp3.1\BorderControl_OOP.AssemblyInfoInputs.cache
+D:\Programing\BorderControl_OOP\BorderControl_OOP\obj\Debug\netcoreapp3.1\BorderControl_OOP.AssemblyInfo.cs
+D:\Programing\BorderControl_OOP\BorderControl_OOP\obj\Debug\netcoreapp3.1\BorderControl_OOP.csproj.CoreCompileInputs.cache
+D:\Programing\BorderControl_OOP\BorderControl_OOP\obj\Debug\netcoreapp3.1\BorderControl_OOP.dll
+D:\Programing\BorderControl_OOP\BorderControl_OOP\obj\Debug\netcoreapp3.1\BorderControl_OOP.pdb
+D:\Programing\BorderControl_OOP\BorderControl_OOP\obj\Debug\netcoreapp3.1\BorderControl_OOP.genruntimeconfig.cache
